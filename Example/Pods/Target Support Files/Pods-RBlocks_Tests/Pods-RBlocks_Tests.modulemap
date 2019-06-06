@@ -1,0 +1,6 @@
+framework module Pods_RBlocks_Tests {
+  umbrella header "Pods-RBlocks_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

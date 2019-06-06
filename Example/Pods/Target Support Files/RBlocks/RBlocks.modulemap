@@ -1,0 +1,6 @@
+framework module RBlocks {
+  umbrella header "RBlocks-umbrella.h"
+
+  export *
+  module * { export * }
+}

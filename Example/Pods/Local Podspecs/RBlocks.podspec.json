@@ -1,0 +1,22 @@
+{
+  "name": "RBlocks",
+  "version": "0.1.0",
+  "summary": "A short description of RBlocks.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Relax/RBlocks",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Relax": "min.yao@yuntu-inc.com"
+  },
+  "source": {
+    "git": "https://github.com/Relax/RBlocks.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RBlocks/Classes/**/*"
+}
